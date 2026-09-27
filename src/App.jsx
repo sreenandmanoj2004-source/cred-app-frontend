@@ -4,9 +4,9 @@ import 'react-toastify/dist/ReactToastify.css';
 
 import {  Route, Routes } from 'react-router-dom';
 import Home from './pages/Home';
-import Login from './components/login';
-import Signup from './components/signup';
-import Dashboard from './components/dashboard';
+import Login from './components/Login';
+import Signup from './components/Signup';
+import Dashboard from './components/Dashboard';
 import NotFound from './components/NotFound';
 import Navbar from './components/Navbar';
 
